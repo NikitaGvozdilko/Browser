@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\AndroidStudioProjects\\simple-android-web-browser1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\AndroidStudioProjects\\simple-android-web-browser1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,-1,-1,-1",
+                        "startColumns": "4,-1,-1,-1",
+                        "startOffsets": "132,-1,-1,-1",
+                        "endColumns": "45,-1,-1,-1",
+                        "endOffsets": "173,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,101,139,177",
+                        "endColumns": "45,37,37,71",
+                        "endOffsets": "96,134,172,244"
+                    }
+                }
+            ]
+        }
+    ]
+}
